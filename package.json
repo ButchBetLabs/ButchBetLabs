@@ -40,5 +40,6 @@
     "gh-pages": "^6.3.0",
     "mini-css-extract-plugin": "^2.2.0",
     "style-loader": "^3.2.1",
+    "webpack-cli": "^4.8.0",
   }
 }
