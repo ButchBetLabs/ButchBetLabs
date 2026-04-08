@@ -24,7 +24,7 @@ This repository contains my personal portfolio site to showcase my projects, ski
 - ⚡ Fun fact: I’m too lazy to cook.
 
 ### Links
-- Solution (source): https://github.com/ButchBet/ButchBet  
+- Solution (source): https://github.com/ButchBetLabs/ButchBetLabs  
 - Live site: ...
 
 ## About Me
